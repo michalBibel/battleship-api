@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\Projects\\battleship-api\\battleship-api.csproj": {}
+    "c:\\Users\\micha\\Projects\\battleship-api\\battleship-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\Projects\\battleship-api\\battleship-api.csproj": {
+    "c:\\Users\\micha\\Projects\\battleship-api\\battleship-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\Projects\\battleship-api\\battleship-api.csproj",
+        "projectUniqueName": "c:\\Users\\micha\\Projects\\battleship-api\\battleship-api.csproj",
         "projectName": "battleship-api",
-        "projectPath": "C:\\Users\\micha\\Projects\\battleship-api\\battleship-api.csproj",
+        "projectPath": "c:\\Users\\micha\\Projects\\battleship-api\\battleship-api.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\Projects\\battleship-api\\obj\\",
+        "outputPath": "c:\\Users\\micha\\Projects\\battleship-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
