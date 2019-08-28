@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "battleship-api", "battleshi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "battleship-logic", "battleship-logic\battleship-logic.csproj", "{FF9E2429-5910-4E2B-B5D4-B2A1CD80B6C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "battleship-logic-tests", "battleship-logic-tests\battleship-logic-tests.csproj", "{22FDAF80-45B9-4685-A6CC-3B4A475AB665}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{FF9E2429-5910-4E2B-B5D4-B2A1CD80B6C5}.Release|x64.Build.0 = Release|Any CPU
 		{FF9E2429-5910-4E2B-B5D4-B2A1CD80B6C5}.Release|x86.ActiveCfg = Release|Any CPU
 		{FF9E2429-5910-4E2B-B5D4-B2A1CD80B6C5}.Release|x86.Build.0 = Release|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Debug|x64.Build.0 = Debug|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Debug|x86.Build.0 = Debug|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Release|x64.ActiveCfg = Release|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Release|x64.Build.0 = Release|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Release|x86.ActiveCfg = Release|Any CPU
+		{22FDAF80-45B9-4685-A6CC-3B4A475AB665}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
